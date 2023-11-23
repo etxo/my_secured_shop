@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-02T15:46:14.071+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/product/add"
+}

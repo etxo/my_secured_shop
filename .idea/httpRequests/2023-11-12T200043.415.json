@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-12T19:00:43.729+00:00",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/product"
+}

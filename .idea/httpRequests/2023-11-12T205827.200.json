@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "gena",
+  "age": 24,
+  "email": "gennady@servak.ua",
+  "cart": {
+    "id": 4,
+    "products": [],
+    "totalPrice": 0.0,
+    "avgPrice": 0.0
+  }
+}

@@ -1,0 +1,658 @@
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "boots",
+  "price": 27.99
+}
+
+<> 2023-11-16T122042.200.txt
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "ananas",
+  "price": 7.99
+}
+
+<> 2023-11-16T121936.200.txt
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "ananas",
+  "price": 7.99
+}
+
+<> 2023-11-16T121255.200.txt
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "banana",
+  "price": 9.99
+}
+
+<> 2023-11-16T121107.200.txt
+
+###
+
+POST http://localhost:8080/localhost/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "banana",
+  "price": 9.99
+}
+
+<> 2023-11-16T121037.404.json
+
+###
+
+DELETE http://localhost:8080/product/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-15T162231.500.json
+
+###
+
+DELETE http://localhost:8080/product/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-15T161044.500.json
+
+###
+
+DELETE http://localhost:8080/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-15T161015.404.json
+
+###
+
+GET http://localhost:8080/product
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-15T155238.200.json
+
+###
+
+GET http://localhost:8080/product/count
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T161100.200.json
+
+###
+
+GET http://localhost:8080/product
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T155542.200.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 40
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "fishka",
+  "price": 34.34
+}
+
+<> 2023-11-13T155325.200.txt
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "34",
+  "name": "sugar",
+  "price": 12.00
+}
+
+<> 2023-11-13T153518.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "34",
+  "name": "sugar",
+  "price": 12.00
+}
+
+<> 2023-11-13T153236.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "34",
+  "name": "sugar",
+  "price": 12.00
+}
+
+<> 2023-11-13T152926.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "sugar",
+  "price": 12.00
+}
+
+<> 2023-11-13T152758.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 39
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "sugar",
+  "price": 18.00
+}
+
+<> 2023-11-13T151831.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Length: 77
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Content-Type: application/json
+
+{
+    "name": "rediska",
+    "price": 12.00
+}
+
+<> 2023-11-13T145444.415.json
+
+###
+
+GET http://localhost:8080/product/3
+Content-Length: 24
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Accept: application/json
+
+<> 2023-11-13T145143.200.json
+
+###
+
+GET http://localhost:8080/customer/6
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T141814.200.json
+
+###
+
+GET http://localhost:8080/product/1
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T140606.200.json
+
+###
+
+GET http://localhost:8080/product/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T140454.200.json
+
+###
+
+GET http://localhost:8080/product/2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T140129.200.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name":"jeff",
+  "age":37,
+  "email": "jeff@future.fu"
+}
+
+<> 2023-11-13T100826.200.txt
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name":"jeff",
+  "age":37,
+  "email": "jeff@future.fu"
+}
+
+<> 2023-11-13T095626.500.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+    "name":"jeff",
+    "age":99,
+    "email": "jeff@future.fu",
+}
+
+<> 2023-11-13T095403.400.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "customer_id":7,
+  "name":"jeff",
+  "age":0,
+  "email": "jeff@future.fu",
+}
+
+<> 2023-11-12T213544.400.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 78
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "customer_id":7,
+  "name":"jeff",
+  "age":0,
+  "email": "jeff@future.fu",
+}
+
+<> 2023-11-12T213512.400.json
+
+###
+
+
+<> 2023-11-12T213436.400.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+Content-Length: 86
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+    "customer_id":7,
+    "name":"jeff",
+    "age":0,
+    "email": "jeff@future.fu",
+}
+
+<> 2023-11-12T213403.400.json
+
+###
+
+POST http://localhost:8080/customer/add
+Content-Type: application/json
+
+{
+    "name":"jeff",
+    "age":99,
+    "email": "jeff@future.fu",
+}
+
+<> 2023-11-12T212148.500.json
+
+###
+
+GET http://localhost:8080/customer/6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T205924.200.json
+
+###
+
+POST http://localhost:8080/customer/6/3
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T205902.200.txt
+
+###
+
+GET http://localhost:8080/customer/6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T205827.200.json
+
+###
+
+GET http://localhost:8080/customer/6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T204224.200.json
+
+###
+
+POST http://localhost:8080/customer/6/3
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T204053.500.json
+
+###
+
+POST http://localhost:8080/customer/6/3
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T202406.500.json
+
+###
+
+GET http://localhost:8080/customer
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T201730.200.json
+
+###
+
+GET http://localhost:8080/product
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T201715.200.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 42
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "hammer",
+  "price": "12.70"
+}
+
+<> 2023-11-12T200143.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 14
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+"hammer"&15.90
+
+<> 2023-11-12T200043.415.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 42
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "hammer",
+  "price": "12.70"
+}
+
+<> 2023-11-02T173156.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 40
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "hammer",
+  "price": 12.70
+}
+
+<> 2023-11-02T173135.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/json
+Content-Length: 40
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "hammer",
+  "price": 12.70
+}
+
+<> 2023-11-02T172130.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 14
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+"hammer"&15.90
+
+<> 2023-11-02T165251.500.json
+
+###
+
+POST http://localhost:8080/product
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+name="hammer"&price=15.90
+
+<> 2023-11-02T165146.200.txt
+
+###
+
+GET http://localhost:8080/product
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+name="hammer"&price=15.90
+
+<> 2023-11-02T165012.200.json
+
+###
+
+GET http://localhost:8080/product/add
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+name="hammer"&price=15.90
+
+<> 2023-11-02T164614.400.json
+
+###
+
+GET http://localhost:8080/product/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-02T145513.404.json
+
+###
+
+DELETE http://localhost:8080/product?id=1
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-01T201756.405.json
+
+###
+

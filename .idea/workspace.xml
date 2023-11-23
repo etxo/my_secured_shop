@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c8c2b83-8ee8-40b0-a950-b0d872f60e94" name="Changes" comment="current code update">
+      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/MySpringShopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/MySpringShopApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/controllers/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/controllers/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/task_081123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/task_081123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/task_221123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/task_221123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/ExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/ExceptionAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/EntityValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/EntityValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/FirstTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/FirstTestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/SecondTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/SecondTestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/ThirdTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/ThirdTestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/logging/AspectLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/logging/AspectLogging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/logging/task_131123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/logging/task_131123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/schedule/ScheduleExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/schedule/ScheduleExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/interfaces/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/interfaces/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/interfaces/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/interfaces/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/JpaProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/JpaProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/JpaUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/JpaUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/telran/my_spring_shop/MySpringShopApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/telran/my_shop_secured/MySpringShopApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/telran/my_spring_shop/services/jpa/JpaCustomerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/telran/my_shop_secured/services/jpa/JpaCustomerServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" />
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" environment="test" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XTc88G02gKFyLkaknKlN8cF2Pt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/etxo/TelRan/my_secured_shop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.splitter.proportion": "0.25843453",
+    "spring.configuration.checksum": "ad95e84038d961927097ea2157cbf3a0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.telran.my_spring_shop.domain.entity.jpa" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.telran.my_spring_shop.services.jpa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MySecuredShop">
+    <configuration name="rest-api_14 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_14.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_15 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_15.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_16 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_16.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_17 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_17.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_18 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_18.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="my_secured_shop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="my_secured_shop" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySecuredShop" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="one" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.telran.my_secured_shop.MySecuredShop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_18 | #1" />
+        <item itemvalue="HTTP Request.rest-api_17 | #1" />
+        <item itemvalue="HTTP Request.rest-api_16 | #1" />
+        <item itemvalue="HTTP Request.rest-api_15 | #1" />
+        <item itemvalue="HTTP Request.rest-api_14 | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8c2b83-8ee8-40b0-a950-b0d872f60e94" name="Changes" comment="" />
+      <created>1698656348961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698656348961</updated>
+      <workItem from="1698656350107" duration="10900000" />
+      <workItem from="1698757589211" duration="5448000" />
+      <workItem from="1698763420266" duration="4092000" />
+      <workItem from="1698826109953" duration="1437000" />
+      <workItem from="1698828840339" duration="9269000" />
+      <workItem from="1698840306809" duration="13000" />
+      <workItem from="1698853722232" duration="12392000" />
+      <workItem from="1698913931753" duration="10181000" />
+      <workItem from="1698931484275" duration="2163000" />
+      <workItem from="1698933831855" duration="13688000" />
+      <workItem from="1698948276963" duration="17000" />
+      <workItem from="1698999672759" duration="5000" />
+      <workItem from="1699000772593" duration="1989000" />
+      <workItem from="1699004077130" duration="240000" />
+      <workItem from="1699089445237" duration="3100000" />
+      <workItem from="1699100400980" duration="4200000" />
+      <workItem from="1699106794706" duration="14000" />
+      <workItem from="1699204386194" duration="9337000" />
+      <workItem from="1699214007943" duration="1531000" />
+      <workItem from="1699259150521" duration="10306000" />
+      <workItem from="1699283239767" duration="9633000" />
+      <workItem from="1699364602576" duration="11848000" />
+      <workItem from="1699380657894" duration="7394000" />
+      <workItem from="1699432233192" duration="10302000" />
+      <workItem from="1699444917005" duration="890000" />
+      <workItem from="1699446895884" duration="668000" />
+      <workItem from="1699463139247" duration="599000" />
+      <workItem from="1699518736693" duration="30000" />
+      <workItem from="1699607831823" duration="383000" />
+      <workItem from="1699608561483" duration="5078000" />
+      <workItem from="1699616279414" duration="1342000" />
+      <workItem from="1699618150691" duration="6000" />
+      <workItem from="1699630019766" duration="7349000" />
+      <workItem from="1699698402752" duration="63000" />
+      <workItem from="1699811712055" duration="9272000" />
+      <workItem from="1699865404328" duration="2608000" />
+      <workItem from="1699871171701" duration="613000" />
+      <workItem from="1699877657457" duration="10043000" />
+      <workItem from="1699950194335" duration="13000" />
+      <workItem from="1699971563925" duration="8204000" />
+      <workItem from="1700039525912" duration="4652000" />
+      <workItem from="1700044886176" duration="17997000" />
+      <workItem from="1700065705900" duration="7423000" />
+      <workItem from="1700123109062" duration="35000" />
+      <workItem from="1700125786218" duration="8367000" />
+      <workItem from="1700484180280" duration="14000" />
+      <workItem from="1700579090430" duration="4688000" />
+      <workItem from="1700586386853" duration="208000" />
+      <workItem from="1700648129073" duration="12000" />
+      <workItem from="1700655674234" duration="618000" />
+      <workItem from="1700751581343" duration="5313000" />
+      <workItem from="1700757631161" duration="15000" />
+      <workItem from="1700758201629" duration="532000" />
+    </task>
+    <task id="LOCAL-00001" summary="current code update">
+      <option name="closed" value="true" />
+      <created>1699977783081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977783081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="current code update">
+      <option name="closed" value="true" />
+      <created>1699977802988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977802988</updated>
+    </task>
+    <task id="LOCAL-00003" summary="current code update">
+      <option name="closed" value="true" />
+      <created>1699977812964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977812964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="current code update">
+      <option name="closed" value="true" />
+      <created>1699977869025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977869025</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="current code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="current code update" />
+  </component>
+</project>

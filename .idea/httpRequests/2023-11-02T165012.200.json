@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "teepot",
+    "price": 45.9
+  },
+  {
+    "id": 2,
+    "name": "chainsaw",
+    "price": 545.0
+  },
+  {
+    "id": 3,
+    "name": "tongs",
+    "price": 21.35
+  }
+]

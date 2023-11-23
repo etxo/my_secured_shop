@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "name": "gena",
+  "age": 24,
+  "email": "gennady@servak.ua",
+  "cart": {
+    "id": 4,
+    "products": [
+      {
+        "id": 3,
+        "name": "Orange",
+        "price": 180.0
+      }
+    ],
+    "totalPrice": 180.0,
+    "avgPrice": 180.0
+  }
+}

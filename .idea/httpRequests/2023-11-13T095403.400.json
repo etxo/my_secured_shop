@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-13T08:54:03.093+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/customer/add"
+}

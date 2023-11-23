@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-13T14:29:26.383+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/product"
+}
