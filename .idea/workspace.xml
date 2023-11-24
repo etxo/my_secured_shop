@@ -5,39 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c8c2b83-8ee8-40b0-a950-b0d872f60e94" name="Changes" comment="current code update">
-      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/MySpringShopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/MySpringShopApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/controllers/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/controllers/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/task_081123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/task_081123.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/domain/entity/jpa/task_221123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/domain/entity/task_221123.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/ExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/ExceptionAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/EntityValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/EntityValidationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/FirstTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/FirstTestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/SecondTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/SecondTestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/exception_handling/exceptions/ThirdTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/exception_handling/exceptions/ThirdTestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/logging/AspectLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/logging/AspectLogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/logging/task_131123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/logging/task_131123.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/CartRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/repository/jpa/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/repository/jpa/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/schedule/ScheduleExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/schedule/ScheduleExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/interfaces/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/interfaces/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/interfaces/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/interfaces/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/JpaProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/JpaProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/JpaUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/JpaUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_spring_shop/services/jpa/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_shop_secured/services/jpa/TaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/telran/my_spring_shop/MySpringShopApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/telran/my_shop_secured/MySpringShopApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/telran/my_spring_shop/services/jpa/JpaCustomerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/telran/my_shop_secured/services/jpa/JpaCustomerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/jpa/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/jpa/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/jpa/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/jpa/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/JpaProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/JpaProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/JpaUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/JpaUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/my_secured_shop/services/jpa/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/telran/my_secured_shop/services/jpa/JpaCustomerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/telran/my_secured_shop/services/jpa/JpaCustomerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/telran/my_secured_shop/domain/entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/telran/my_secured_shop/domain/entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/telran/my_secured_shop/domain/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/telran/my_secured_shop/domain/entity/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,34 +58,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "/home/etxo/TelRan/my_secured_shop",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "settings.editor.splitter.proportion": "0.25843453",
-    "spring.configuration.checksum": "ad95e84038d961927097ea2157cbf3a0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/etxo/TelRan/my_secured_shop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.25843453&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f97c5d29941bfb1b2fdab0874906ab82&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="de.telran.my_spring_shop.domain.entity.jpa" />
@@ -221,7 +204,9 @@
       <workItem from="1700655674234" duration="618000" />
       <workItem from="1700751581343" duration="5313000" />
       <workItem from="1700757631161" duration="15000" />
-      <workItem from="1700758201629" duration="532000" />
+      <workItem from="1700758201629" duration="944000" />
+      <workItem from="1700814142697" duration="1342000" />
+      <workItem from="1700829559574" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="current code update">
       <option name="closed" value="true" />

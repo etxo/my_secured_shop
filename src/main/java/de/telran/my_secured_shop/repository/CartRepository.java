@@ -1,4 +1,4 @@
-package de.telran.my_secured_shop.repository.jpa;
+package de.telran.my_secured_shop.repository;
 
 import de.telran.my_secured_shop.domain.entity.Cart;
 import org.springframework.data.jpa.repository.JpaRepository;

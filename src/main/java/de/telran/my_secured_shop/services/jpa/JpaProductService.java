@@ -2,7 +2,7 @@ package de.telran.my_secured_shop.services.jpa;
 
 import de.telran.my_secured_shop.domain.entity.Product;
 import de.telran.my_secured_shop.domain.entity.Task;
-import de.telran.my_secured_shop.repository.jpa.ProductRepository;
+import de.telran.my_secured_shop.repository.ProductRepository;
 import de.telran.my_secured_shop.services.interfaces.ProductService;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -26,7 +26,6 @@ public class JpaProductService implements ProductService {
     public static Task lastTask;
     @Override
     public List<Product> getAll() {
-
 
         //ScheduleExecutor.executeScheduledTask(task);
         return new ArrayList<>(repository.findAll());

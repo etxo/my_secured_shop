@@ -21,7 +21,7 @@ public class ProductController {
 
     @Autowired
     private ProductService productService;
-    @GetMapping
+    @GetMapping("/all")
     public ResponseEntity<List<Product>> getAll() {
 
         return ResponseEntity.ok(productService.getAll());
@@ -33,7 +33,7 @@ public class ProductController {
         return ResponseEntity.ok(productService.getById(id));
     }
 
-    @PostMapping
+    @PostMapping("/add")
     public ResponseEntity addProduct(@RequestBody @Valid @NotNull Product product){
         if("test".equals(product.getName())){
             throw new FirstTestException("incorrect product name");

@@ -2,9 +2,9 @@ package de.telran.my_secured_shop.services.jpa;
 
 import de.telran.my_secured_shop.domain.entity.Cart;
 import de.telran.my_secured_shop.domain.entity.User;
-import de.telran.my_secured_shop.repository.jpa.CartRepository;
-import de.telran.my_secured_shop.repository.jpa.UserRepository;
-import de.telran.my_secured_shop.repository.jpa.ProductRepository;
+import de.telran.my_secured_shop.repository.CartRepository;
+import de.telran.my_secured_shop.repository.UserRepository;
+import de.telran.my_secured_shop.repository.ProductRepository;
 import de.telran.my_secured_shop.services.interfaces.UserService;
 import jakarta.transaction.Transactional;
 import lombok.AllArgsConstructor;

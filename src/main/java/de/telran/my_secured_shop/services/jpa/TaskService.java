@@ -1,7 +1,7 @@
 package de.telran.my_secured_shop.services.jpa;
 
 import de.telran.my_secured_shop.domain.entity.Task;
-import de.telran.my_secured_shop.repository.jpa.TaskRepository;
+import de.telran.my_secured_shop.repository.TaskRepository;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.stereotype.Service;
